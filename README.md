@@ -2,7 +2,7 @@
 
 # 🌟 AI Exoplanet Predictor
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Isolation%20Forest-green.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-red.svg)](https://www.spaceappschallenge.org/)
@@ -15,17 +15,17 @@
 
 This is a Machine Learning Model that can predict the probability of a star to host an Exoplanet.
 
-We believe that this method is gonna be very useful to the Researchers working on the next space Missions such as **Roman Telescope**, **Plato**, also future ones like **Ariel** and **HWO**.
+We believe that this method is gonna be very useful for the Researchers working on the next space Missions such as **Roman Telescope**, **Plato**, also future ones like **Ariel** and **HWO**.
 
 ## 🤔 How??
 
 Simply, if the telescope detects 2 Billion Stars and starts to work on them to discover Exoplanets, **Which one is gonna be the first One??**
 
-This is where our Implementation excels, it's using **Isolation Forest** (ML Algorithm) trained on the Confirmed Stars hosting Exoplanets.
+This is where this Implementation excels, it's using **Isolation Forest** (ML Algorithm) trained on the Confirmed Stars hosting Exoplanets.
 
 ## 💡 Impact
 
-This Model is going to reduce, **so much**, the amount of Resources, time, research and Money spent on Observations for years and at the end not getting outcomes.
+This Model is going to reduce, **so much**, the amount of Resources, time, research and Money spared by Observatories for years and not getting outcomes.
 
 ---
 
